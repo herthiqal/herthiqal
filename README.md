@@ -13,7 +13,7 @@ My mission is to make the digital space a safer environment through continuous r
 
 </div>
 
-## Validated Research & Recognitions
+##                     Validated Research & Recognitions
 My research focuses on reconnaissance and web exploitation within enterprise environments. I have been formally recognized by the following organizations for identifying and reporting security vulnerabilities:
 
 * **Apple** – Security Research Acknowledgment / Hall of Fame
@@ -21,7 +21,7 @@ My research focuses on reconnaissance and web exploitation within enterprise env
 
 
 
-## Tools
+##                                   Tools
 
 ### Penetration Testing (Offensive)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-EF5A31?style=for-the-badge&logo=Burp-Suite&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-4F5B93?style=for-the-badge&logo=Nmap&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-EE4C2C?style=for-the-badge&logo=Metasploit&logoColor=white) ![SQLmap](https://img.shields.io/badge/SQLmap-602D5A?style=for-the-badge&logo=SQLmap&logoColor=white) ![Hashcat](https://img.shields.io/badge/Hashcat-2C2C2C?style=for-the-badge&logo=Hashcat&logoColor=white)
