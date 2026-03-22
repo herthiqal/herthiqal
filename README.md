@@ -18,7 +18,7 @@ My research focuses on reconnaissance and web exploitation within enterprise env
 
 * **Apple** – Security Research Acknowledgment / Hall of Fame
 * **Deutsche Telekom** – Listed in the Hall of Fame for Vulnerability Disclosure
-* **Bug Bounty** – Active researcher providing high-impact vulnerability reports for global organizations.
+
 
 
 ## Tools
